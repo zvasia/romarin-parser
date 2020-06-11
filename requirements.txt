@@ -1,0 +1,10 @@
+certifi==2020.4.5.2
+chardet==3.0.4
+colorama==0.4.3
+configparser==5.0.0
+crayons==0.3.1
+future==0.18.2
+idna==2.9
+lzstring==1.0.4
+requests==2.23.0
+urllib3==1.25.9
